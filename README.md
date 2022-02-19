@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Javascript, Typescript, NodeJS and React.
 - 👯 I’m looking to collaborate on ... All kind of projects.
 - 📫 How to reach me: alexgalo246@gmail.com.
-- 🎗️I have worked with HTML,CSS, Java,and Javascript.
+- 🎗️I have experience working with HTML,CSS, Java,Javascript and SQL.
+
