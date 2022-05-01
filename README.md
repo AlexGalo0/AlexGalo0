@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning ...Typescript, NodeJS and React.
+- 🌱 I’m currently learning ...React and Node JS
 - 👯 I’m looking to collaborate on ... All kind of projects.
 - 📫 How to reach me: alexgalo246@gmail.com.
-- 🎗️I have experience working with HTML,CSS, Java,Javascript and SQL.
+- 🎗️I have experience working with HTML,CSS, Java,Javascript,Typescript and SQL
 
