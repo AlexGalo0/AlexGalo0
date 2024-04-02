@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...Everything
 - 👯 I’m looking to collaborate on ... All kind of projects.
 - 📫 How to reach me: alexgalo246@gmail.com.
-- 🎗️I have experience working with HTML,CSS, Java,Javascript,Typescript and SQL
+- 🎗️I have experience working with React, Next.JS, Java, Node, SQL and MongoDB.
 
